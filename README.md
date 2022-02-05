@@ -16,10 +16,13 @@ I am a software developer currently studying computer science at UC Davis with p
 
 ---
 
-### Some Stats 👋 
+### Some Stats 📈 
 
 <p align="middle">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=omidmogasemi&theme=dark&layout=compact&align=right&width=30%) />
+</p> 
+
+<p align="middle">
 <img src=http://github-readme-streak-stats.herokuapp.com?user=omidmogasemi&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DD8905)](https://git.io/streak-stats) /> 
 <img src=https://github-readme-stats.vercel.app/api?username=omidmogasemi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=20%&align=left) /> 
 </p> 
