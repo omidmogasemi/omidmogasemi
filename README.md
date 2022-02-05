@@ -2,7 +2,7 @@
 
 ### About Me 
 
-I am a software developer currently studying computer science at UC Davis with plans to graduate in the Spring of 2022. I take passion in using my skills to enact social good and strive to make sure that I leave a lasting positive impact on the world. I'm currently working part-time at CodeLab, a software and design agency for students creating real-world projects for startups, and am responsible for maintaining the website of Hands Together, a non-profit pre-school for at-risk children in Santa Ana. 
+I am a software developer currently studying computer science at UC Davis with plans to graduate in the Spring of 2022. I take passion in using my skills to enact social good and strive to make sure that I leave a lasting positive impact on the world. 
 
 ### My Current Work 
 - [**CodeLab**](https://www.codelabdavis.com/), a UC Davis club I am the VP of Technology and a Co-Founder of. My role includes guiding teams with implementing their quarterly projects for clients, as well as creating educational material and project workflows for "mentored" students in an effort to teach them basic industry level languages and frameworks such as React, MongoDB, using and creating APIs, etc. 
@@ -13,3 +13,14 @@ I am a software developer currently studying computer science at UC Davis with p
 - [**Eduworks**](https://eduworks.com/), where I worked for 10 weeks in early 2021, responsible for obtaining data used to train NLP models for a job competency system by using Python to communicate with various job sourcing APIs and by webscraping. I was also responsible for programatically cleaning and tagging the data. 
 - [**HackDavis**](https://hackdavis.io/), a website that aims to advertise UC Davis' yearly hackathons to students. Built with React and Google Firebase using GatsbyJS. I was Co-President and the Lead Director of Technical responsible for making the websites and educational workshops to teach web development basics to other college students. 
 - **Komma**, a start-up simplifying the way people schedule meetings. Built using the MERN stack with Google Auth API and AWS S3 for image hosting I was responsible for front-end web development as well as serving as the company's CEO, discovering and directing our early business model. Participated in the Spring 2021 UCD PLASMA accelerator cohort. 
+
+---
+
+### Some Stats 👋 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidmogasemi&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidmogasemi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=omidmogasemi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%">
