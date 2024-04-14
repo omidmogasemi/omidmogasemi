@@ -5,7 +5,7 @@
 I take passion in using my skills to enact social good and strive to make sure that I leave a lasting positive impact on the world in the code that I write. 
 
 ### My Current Work 
-- [**Netflix**](https://www.netflix.com/), on the Machine Learning Platform team working on [Polynote](https://github.com/polynote/polynote), an OSS polyglot notebook with first-class Scala support. 
+- [**Netflix**](https://www.netflix.com/), on the Machine Learning Platform team, spearheading the design for the platform's ML model training orchestrator by employing user interviews, design sprints, and implementation using Figma, Clojure, and TypeScript. Previously worked on [Polynote](https://github.com/polynote/polynote), an OSS polyglot notebook with first-class Scala support. 
 
 ### My Past Work 
 - [**Principal Financial Group**](https://www.principal.com/), where I interned on the PUPP Life Calc team, working on an error handling service in a Java Spring Boot microservice app as well as modernizing an older Java application to AWS using Lambdas, DynamoDB, and TypeScript. 
